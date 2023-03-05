@@ -3,7 +3,7 @@ import throttle from 'lodash.throttle';
 const LOCAL_KEY = 'feedback-form-state';
 const formData = JSON.parse(localStorage.getItem(LOCAL_KEY)) || {};
 
-form = document.querySelector('.feedback-form');
+const form = document.querySelector('.feedback-form');
 
 form.addEventListener('input', throttle(onTextareaInput, 500));
 form.addEventListener('submit', onFormSubmit);
