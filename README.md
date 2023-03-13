@@ -20,7 +20,7 @@ import SimpleLightbox from 'simplelightbox';
 import 'simplelightbox/dist/simple-lightbox.min.css';
 ```
 
-[![Image from Gyazo](https://gyazo.com/6d0b0c2ec1d68358340088b579bf4ac9)](https://gyazo.com/f8324c0c56226f29e406abb2c12851b4)
+[![Image from Gyazo](https://gyazo.com/6d0b0c2ec1d68358340088b579bf4ac9)](https://gyazo.com/6d0b0c2ec1d68358340088b579bf4ac9)
 
 ## Завдання 2 - відеоплеєр
 
